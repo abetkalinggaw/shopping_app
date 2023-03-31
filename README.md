@@ -6,7 +6,8 @@
 
 ### Screenshot Preview
 
-![Shopping App](/assets/screenshot/preview.png"Shopping App")
+![Shopping App](/assets/screenshot/preview.png)
+_Shopping App - Toko-nya Dia._
 
 ### Links
 
